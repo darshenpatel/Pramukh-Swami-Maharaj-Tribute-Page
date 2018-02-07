@@ -1,0 +1,43 @@
+body {
+  margin-top: 60px;
+  margin-bottom: 10px;
+  text-align: center;
+  background-color: #F5F5F5;
+  font-family: "Arial";
+
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  word-spacing: 3px;
+
+}
+
+
+.BAPS {
+    color: #DC143C;
+    text-align: center;
+}
+
+.text-primary {
+   color: #F4A460;
+  }
+
+.text-center {
+   color: #F4A460;
+
+}
+
+.text-setting{
+  color: #606060;
+
+}
+
+#outline {
+    text-align: left;
+    color: #606060;
+
+}
+
+.text-bottom {
+   color: #F4A460;
+   margin-top: -5px;
+}
